@@ -39,7 +39,7 @@ Um sistema web moderno para gerenciar cronogramas de estudo com alarmes personal
 
 ### 1. Clone o Repositório
 \`\`\`bash
-git clone https://github.com/seu-usuario/sistema-alarme-estudos.git
+git clone https://github.com/Moosy-Joao/sistema-alarme-estudos-np.git
 cd sistema-alarme-estudos
 \`\`\`
 
@@ -240,8 +240,8 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 - **Navegador**: Chrome 80+, Firefox 75+, Safari 13+, Edge 80+
 
 ### Contato
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/sistema-alarme-estudos/issues)
-- **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/sistema-alarme-estudos/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Moosy-Joao/sistema-alarme-estudos-np/issues)
+- **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/sistema-alarme-estudos-np/discussions)
 
 ---
 
@@ -251,6 +251,6 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 **Desenvolvido com ❤️ para estudantes que querem organizar melhor seu tempo**
 
-[⭐ Dê uma estrela se este projeto te ajudou!](https://github.com/Moosy-Joao/sistema-alarme-estudos)
+[⭐ Dê uma estrela se este projeto te ajudou!](https://github.com/Moosy-Joao/sistema-alarme-estudos-np)
 
 </div>
