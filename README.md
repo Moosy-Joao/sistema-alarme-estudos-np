@@ -2,6 +2,9 @@
 
 Um sistema web moderno para gerenciar cronogramas de estudo com alarmes personalizados e notificações inteligentes.
 
+![image](https://github.com/user-attachments/assets/1bef851c-d22c-4fb3-aaf2-476bde17ad06)
+
+
 ![Sistema de Alarme de Estudos](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css)
